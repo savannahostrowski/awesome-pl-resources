@@ -17,4 +17,4 @@ Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome)
 
 ## Interpreters
 **Resources for general learning about interpreters**
-- [Writing an Interpreter in Go by Thorsten Ball](https://compilerbook.com/) - eBook covering the step-by-step implementation of an interpreter using Go
+- [Writing an Interpreter in Go by Thorsten Ball](https://interpreterbook.com/) - eBook covering the step-by-step implementation of an interpreter using Go
