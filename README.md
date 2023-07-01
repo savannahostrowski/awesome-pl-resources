@@ -9,5 +9,5 @@ Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome)
 ---
 
 ## Compilers
-*Resources for general learning about compilers**
+**Resources for general learning about compilers**
 - [Stanford Online - Compilers](https://online.stanford.edu/courses/soe-ycscs1-compilers) - Discusses the major ideas used today in the implementation of programming language compilers
