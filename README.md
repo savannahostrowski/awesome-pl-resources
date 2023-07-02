@@ -10,13 +10,13 @@ A curated list of awesome programming language design and implementation resourc
 
 ## Compilers
 **Resources for general learning about compilers**
-- [Stanford Online - Compilers](https://online.stanford.edu/courses/soe-ycscs1-compilers) - Discusses the major ideas used today in the implementation of programming language compilers
-- [Writing an Compiler in Go by Thorsten Ball](https://compilerbook.com/) - eBook covering the step-by-step implementation of a compiler using Go
+- [Stanford Online - Compilers](https://online.stanford.edu/courses/soe-ycscs1-compilers) - A free online class that discusses the major ideas used today in the implementation of compilers
+- [Writing an Compiler in Go by Thorsten Ball](https://compilerbook.com/) - An eBook covering the step-by-step implementation of a compiler using Go
 
 
 ## Interpreters
 **Resources for general learning about interpreters**
-- [Writing an Interpreter in Go by Thorsten Ball](https://interpreterbook.com/) - eBook covering the step-by-step implementation of an interpreter using Go
+- [Writing an Interpreter in Go by Thorsten Ball](https://interpreterbook.com/) - An eBook covering the step-by-step implementation of an interpreter using Go
 
 ## Related Lists
 **Resources compiled by other people about PL**
