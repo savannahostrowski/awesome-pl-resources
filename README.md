@@ -16,4 +16,4 @@ A curated list of awesome programming language design and implementation resourc
 - [Writing an Interpreter in Go by Thorsten Ball](https://interpreterbook.com/) - An eBook covering the step-by-step implementation of an interpreter using Go
 
 ## Related Lists
-- [Build your Own Programming Language](https://github.com/codecrafters-io/build-your-own-x#build-your-own-programming-language)
+- [Build your Own Programming Language](https://github.com/codecrafters-io/build-your-own-x#build-your-own-programming-language) - A section in the "Build Your Own X" list focused on building programming languages
