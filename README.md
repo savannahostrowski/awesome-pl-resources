@@ -4,7 +4,7 @@ A curated list of awesome programming language design and implementation resourc
 - [Awesome Programming Language Resources](#awesome-pl-resources)
   - [Compilers](#compilers)
   - [Interpreters](#interpreters)
-  - [Other Resources](#other-resources)
+  - [Related Lists](#related-lists)
 
 ---
 
@@ -18,7 +18,6 @@ A curated list of awesome programming language design and implementation resourc
 **Resources for general learning about interpreters**
 - [Writing an Interpreter in Go by Thorsten Ball](https://interpreterbook.com/) - eBook covering the step-by-step implementation of an interpreter using Go
 
-## Other Resources
+## Related Lists
 **Resources compiled by other people about PL**
 - [Build your Own Programming Language](https://github.com/codecrafters-io/build-your-own-x#build-your-own-programming-language)
-- [PL Resources](https://bernsteinbear.com/pl-resources/)
