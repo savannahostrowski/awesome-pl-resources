@@ -11,10 +11,12 @@ A curated list of awesome programming language design and implementation resourc
 ## Compilers
 - [Stanford Online - Compilers](https://online.stanford.edu/courses/soe-ycscs1-compilers) - A free online class that discusses the major ideas used today in the implementation of compilers
 - [Writing an Compiler in Go](https://compilerbook.com/) - An eBook covering the step-by-step implementation of a compiler using Go
+- [Writing a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html) - A language agnostic series on writing your own C compiler
 
 ## Interpreters
 - [Writing an Interpreter in Go](https://interpreterbook.com/) - An eBook covering the step-by-step implementation of an interpreter using Go
 - [500 Lines or Less - A Python Interpreter Written in Python](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html) - Walkthrough of building a small Python interpreter
+- [Crafting Interpreters](https://craftinginterpreters.com/) - A book covering implementation of a full-featured, efficient scripting language
 
 ## Related Lists
 - [Build Your Own X - Programming Language](https://github.com/codecrafters-io/build-your-own-x#build-your-own-programming-language) - A section in the "Build Your Own X" list focused on building programming languages
